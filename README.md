@@ -4,7 +4,7 @@ grib-parser
 This is a standalone grib parser which will be soon included into tika. The parser consumes a grib format file - grib2 or grb and generates a HTML file
 
 Welcome to the GRIB parser!
-Usage: java -jar grib.jar <inputfilepath> <outputfilepath>
+Usage: java -jar grib.jar [inputfilepath] [outputfilepath]
 
 
 There are 3 parts here 
