@@ -19,5 +19,7 @@ How to run the application?
 1.  Clone or download the repository or Take the .jar file along with grib_lib/ folder
 2.  Execute the jar file by typing in the following command 
         java - jar grib.jar <folderpath>/gribfilename  <folderfilename>/htmlfilename
-Example - java -jar grib.jar sample/gdas1.forecmwf.2014062612.grib2  ~/Desktop/grib.html
-          java -jar grib.jar sample/NLDAS_FORA0125_H.A20130112.1200.002.grb  ~/Desktop/grib1.html
+
+Examples 
+1. java -jar grib.jar sample/gdas1.forecmwf.2014062612.grib2  ~/Desktop/grib.html
+2. java -jar grib.jar sample/NLDAS_FORA0125_H.A20130112.1200.002.grb  ~/Desktop/grib1.html
